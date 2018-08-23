@@ -1,3 +1,6 @@
-1. Hello World
-2. Cascading of I/O Operators
-3. Calculator using switch case
+1(1). Hello World
+1. Cascading of I/O Operators
+2. Calculator using switch case
+3. Structure
+4. Structure Array
+5. Scope Resoluton operator
