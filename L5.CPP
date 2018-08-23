@@ -1,4 +1,4 @@
-//5. WAP to implement Scope Resolution operator
+//5. WAP to implement Scope Resolution operator (::)
 #include<iostream.h>
 #include<conio.h>
 
