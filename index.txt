@@ -9,3 +9,6 @@
 8. Functon Overloading in Class
 9. Count no of calls of function
 10. Static Variable vs Normal Variable
+12. Inline function
+13. Simple interest
+14. Dynamic Memory allocation
