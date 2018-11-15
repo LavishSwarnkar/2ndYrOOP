@@ -6,9 +6,28 @@
 5. Scope Resoluton operator
 6. Reference Variable
 7. Class
-8. Functon Overloading in Class
+8. Function Overloading in Class
 9. Count no of calls of function
 10. Static Variable vs Normal Variable
 12. Inline function
 13. Simple interest
 14. Dynamic Memory allocation
+15. Friend function
+16. Constructor
+17. Implicit & Explicit call to constructor 
+18. Copy Constructor
+19. Overloading ++ & -- operator
+20. Destructor
+21. Counting Total & Active no. of objects
+22. Binary Operator Overloading (Member function returning Value)
+23. Binary Operator Overloading (Friend function returning Value)
+24. Binary Operator Overloading (Member function returning Object)
+25. Binary Operator Overloading (Friend function returning Object)
+26. Comparison operator overloading for string
+27. Reading & Writing file using Constructor
+28. Reading & Writing file using Open Function
+29. Virtual Function
+30. Pure Virtual function
+31. Virtual Base Class
+32. Finding the order of execution of Constructor & Destructor
+
