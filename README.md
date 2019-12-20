@@ -30,4 +30,4 @@
 [29. Virtual Function](https://github.com/lswarnkar1/2ndYrOOP/blob/master/L29.CPP)\
 [30. Pure Virtual function](https://github.com/lswarnkar1/2ndYrOOP/blob/master/L30.CPP)\
 [31. Virtual Base Class](https://github.com/lswarnkar1/2ndYrOOP/blob/master/L31.CPP)\
-[32. Finding the order of execution of Constructor & Destructor](https://github.com/lswarnkar1/2ndYrOOP/blob/master/L32.CPP)\
+[32. Finding the order of execution of Constructor & Destructor](https://github.com/lswarnkar1/2ndYrOOP/blob/master/L32.CPP)
